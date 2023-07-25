@@ -1,5 +1,7 @@
 # Plataforma de Aulas e Lives
 
+<h3><a href="https://shimmering-dolphin-53d6e9.netlify.app/">Link para vê a aplicação no ar.</a></h3>
+
 Bem-vindo à Plataforma de Aulas e Lives! Este é um projeto de um site onde você pode assistir aulas e lives online. O projeto foi desenvolvido utilizando React, TypeScript, GraphQL e Apollo Client.
 
 ## Visão Geral
@@ -56,3 +58,5 @@ npm run dev
 5. Acesse o site no navegador:
 
 O servidor de desenvolvimento será iniciado e o site estará disponível em http://localhost:3000.
+
+
