@@ -7,9 +7,9 @@ Bem-vindo à Plataforma de Aulas e Lives! Este é um projeto de um site onde voc
 ## Visão Geral
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(48).png" width="450" height="auto" alt="Descrição da imagem 1">
-  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(46).png" width="450" height="auto" alt="Descrição da imagem 2">
-  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(47).png" width="450" height="auto" alt="Descrição da imagem 2">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(48).png" width="400" height="auto" alt="Descrição da imagem 1">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(46).png" width="400" height="auto" alt="Descrição da imagem 2">
+  <img src="https://raw.githubusercontent.com/DevJoaoPeu/Plataforma-aulas/master/public/Captura%20de%20Tela%20(47).png" width="400" height="auto" alt="Descrição da imagem 2">
 </p>
 
 Nossa Plataforma de Aulas e Lives oferece uma maneira conveniente e interativa de acessar conteúdo educacional em formato de aulas gravadas e transmissões ao vivo. Os usuários podem se inscrever em aulas, assistir a conteúdos previamente gravados e acompanhar transmissões ao vivo de professores e especialistas em diversos assuntos.
