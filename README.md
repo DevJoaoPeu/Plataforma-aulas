@@ -40,7 +40,7 @@ git clone https://github.com/DevJoaoPeu/Plataforma-aulas.git
 2. Acesse a pasta do projeto:
 
 ```
-cd Event-Plataform
+cd Plataforma-aulas
 ```
 
 3. Instale as dependências
